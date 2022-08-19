@@ -1,0 +1,17 @@
+.prompt {
+  max-width: 800px;
+  margin: 60px auto;
+  text-align: center;
+  background: #fff;
+  padding: 50px;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+/* add a comma after every genre */
+.prompt span::after {
+  content: ", ";
+}
+.prompt span:last-child::after {
+  content: "";
+}

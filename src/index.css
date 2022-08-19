@@ -5,7 +5,7 @@ html, body, #root {
 body {
   box-sizing: border-box;
   font-family: 'montserrat', sans-serif;
-  background: #230202;
+  background: #4F4E4E;
   color: #fff;
   margin: 0;
 }
@@ -56,4 +56,25 @@ button {
 button:hover {
   background: #7F5573;
   color: #fff;
+}
+
+input, textarea {
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  border-radius: 6px;
+  padding: 8px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+.loading, .error {
+  text-align: center;
+  margin: 40px auto;
 }
