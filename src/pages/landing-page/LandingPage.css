@@ -1,0 +1,11 @@
+.landing-page {
+  min-height: 100%;
+  background-color: #F9F8F8;
+  color: black;
+}
+
+.intro-cont {
+  padding: 0 20%;
+  background-color: #263A6F;
+  color: #fff;
+}

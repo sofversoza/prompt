@@ -1,0 +1,36 @@
+/* NAVIGATION */
+.intro-nav {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #8e9ec5;
+}
+
+.right ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.register {
+  background-color: #425c9d;
+  font-weight: 300;
+  font-size: 14px;
+  padding: 8px 13px;
+  border: none;
+  border-radius: 12px;
+}
+.register:hover {
+  background-color: #8e9ec5;
+  cursor: pointer;
+}
+
+/* HEADER */
+.intro-header {
+  height: 280px;
+  display: flex;
+  align-items: center;
+}

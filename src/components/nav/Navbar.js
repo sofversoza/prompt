@@ -10,7 +10,7 @@ function Navbar() {
 				<Link to='/' className='brand'>
 					<h1>prompt</h1>
 				</Link>
-				<Search />
+				{/* <Search /> */}
 			</nav>
 		</div>
 	)

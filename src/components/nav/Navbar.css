@@ -2,6 +2,8 @@
   background: #212121;
   padding: 10px;
   color: #fff;
+  position: sticky;
+  top: 0;
 }
 
 .navbar nav {
