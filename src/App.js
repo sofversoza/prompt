@@ -10,18 +10,18 @@ import LandingPage from './pages/landing-page/LandingPage'
 function App() {
 	
 	return (
-		<>
-			<LandingPage />
-		</>
+		// <>
+		// 	<LandingPage />
+		// </>
 		
-		// <div className='App'>
-		// 	<Navbar />
-		// 	<Routes>
-		// 		<Route path='/' element={<Home />} />
-		// 		<Route path='/search' element={<Search />} />
-		// 		<Route path='/books/:id' element={<Prompt />} />
-		// 	</Routes>
-		// </div>
+		<div className='App'>
+			<Navbar />
+			<Routes>
+				<Route path='/' element={<Home />} />
+				<Route path='/search' element={<Search />} />
+				<Route path='/books/:id' element={<Prompt />} />
+			</Routes>
+		</div>
 	)
 }
 

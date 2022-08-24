@@ -13,8 +13,7 @@ export const useFetch = (url) => {
       setIsPending(false)
 			setError(null)
     })
-  }, [])
+  }, [url])
 
-  return { data }
-
+  return { data, isPending, error }
 }
