@@ -5,7 +5,7 @@ import './Prompt.css'
 
 function Prompt() {
   const { id } = useParams()
-  const url = 'http://localhost:3000/prompts' + id
+  const url = 'http://localhost:3000/prompts/' + id
   const { error, isPending, data: prompt } = useFetch(url)
 
   return (

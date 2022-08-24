@@ -13,13 +13,12 @@ function App() {
 		// <>
 		// 	<LandingPage />
 		// </>
-		
 		<div className='App'>
 			<Navbar />
 			<Routes>
 				<Route path='/' element={<Home />} />
 				<Route path='/search' element={<Search />} />
-				<Route path='/books/:id' element={<Prompt />} />
+				<Route path='/prompts/:id' element={<Prompt />} />
 			</Routes>
 		</div>
 	)

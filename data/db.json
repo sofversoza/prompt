@@ -3,8 +3,8 @@
     {
       "id": "1",
       "title": "Lorem ipsum dolor sit amet",
-      "date": "1/22/2022",
-      "text": "ieurhfi ufxih reiuf erfzrfuip hrfiue rhfzpeirq fhieq zfhpeirufz hrefi erhfreuf rheiqpuf herifpu hrfiu rehzfiuprz fhiuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rufyrufygrfougrfuoyr roufgrbfuo rfu prufgr3upfrpfyugrpfu1gf ryfgr",
+      "date": "Jan 4th, 2022",
+      "text": "iehfi ufxih reiuf erfuip hrfiue rhfeirq fhieq zfrufz hrefi ereuf rheiuf heru hrfiu rehprz fhirf ziru fzif zgerf urfk gr zfyurg uryfz rugrfuoyr rouo rfu prufu1gf ryfgr",
       "tags": [
         "journal",
         "how-to"
@@ -13,8 +13,8 @@
     {
       "id": "2",
       "title": "This is another one",
-      "date": "2022",
-      "text": "ieurhfi ufxih reiuf erfzrfuip hrfiue rhfzpeirq fhieq zfhpeirufz hrefi erhfreuf rheiqpuf herifpu hrfiu rehzfiuprz fhiuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rufyrufygrfougrfuoyr roufgrbfuo rfu prufgr3upfrpfyugrpfu1gf ryfgr",
+      "date": "Feb 22, 2022",
+      "text": "ieurhfi ufxih reiuf erffuip hrfiue rhirq fhieq zfrufz hrefi erhfreuf rheqpuf herifpu hrfiu rehzfiuprz fhiuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rufyuoyr roufgrbfuo rfu prufu1gf ryfgr",
       "tags": [
         "books",
         "classics"
@@ -23,8 +23,8 @@
     {
       "id": "3",
       "title": "Yep here I am",
-      "date": "2021",
-      "text": "erfjhlrifu rf ifh  uirhf iuehf puh ufg i;uh fuhefihierf iurgfi rhf 3 4 uy3gyrg3l4ulr 34r  uy3grfouy3ogoruo3rgu13r y34r uy34rgo3y4r34u y3g4 rouy4g3 ruygr uy3g4ruy3 r4yr 34yurgu3ryg4u ru4r 3uy4rg3u4y ufgr uyru34r3r rg 34yr 3r ry 4o3p",
+      "date": "Mar 12, 2021",
+      "text": "erfifu rf ifh  uirhf iuehf puh ufg i;uh fuhierf iurgfi rhf 3 4 uy3ulr 34r uy3rgu13r y34r uy4r34u y3g4 rouy4g3 ruygr uyy3 r4yr 34y4u ru4r 3uy3u4y ufgr uyr3r rg 34yr 3r ry 4o3p",
       "tags": [
         "literature",
         "poets"
@@ -33,8 +33,8 @@
     {
       "id": "4",
       "title": "Hello there Yup",
-      "date": "2019",
-      "text": "ieurhfi ufxih reiuf erfzrfuip hrfiue rhfzpeirq fhieq zfhpeirufz hrefi erhfreuf rheiqpuf herifpu hrfiu rehzfiuprz fhiuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rufyrufygrfougrfuoyr roufgrbfuo rfu prufgr3upfrpfyugrpfu1gf ryfgr",
+      "date": "May 9, 2019",
+      "text": "irhfi ufxih reiuf erfip hrfiue rhrq fhieq zrufz hrefi eruf rhepuf herifpu hrfiu reprz fhprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz ruuoyr rouo rfu prufgr3f ryfgr",
       "tags": [
         "example",
         "help"
@@ -43,8 +43,8 @@
     {
       "id": "5",
       "title": "Hi hi Hi hihi",
-      "date": "2020",
-      "text": "eiufvhepiurfvhrepwfi rueif hrei feruifg heripfhei;rufh riuf herif; erfher",
+      "date": "Oct 3rd, 2020",
+      "text": "eirepwfi rueif hrei feruifg hefh riuf herif; erfher rueif hrei feruifg hefh riuf herif; erfher",
       "tags": [
         "writing",
         "life"
@@ -53,8 +53,48 @@
     {
       "id": "6",
       "title": "Who the haill",
-      "date": "22220",
-      "text": "ieurhfi ufxih reiuf erfzrfuip hrfiue rhfzpeirq fhieq zfhpeirufz hrefi erhfreuf rheiqpuf herifpu hrfiu rehzfiuprz fhiuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rufyrufygrfougrfuoyr roufgrbfuo rfu prufgr3upfrpfyugrpfu1gf ryfgr",
+      "date": "June 8th, 22",
+      "text": "iurhfi ufxih reiuf erfzrfuip hrfiue rhfrq fhieq zfz hrefi erhfreuf rheuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rurfuoyr rogrbfuo rfu p3uu1gf ryfgr",
+      "tags": [
+        "lit",
+        "math"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Who the haill",
+      "date": "June 8th, 22",
+      "text": "iurhfi ufxih reiuf erfzrfuip hrfiue rhfrq fhieq zfz hrefi erhfreuf rheuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rurfuoyr rogrbfuo rfu p3uu1gf ryfgr",
+      "tags": [
+        "lit",
+        "math"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Who the haill",
+      "date": "June 8th, 22",
+      "text": "iurhfi ufxih reiuf erfzrfuip hrfiue rhfrq fhieq zfz hrefi erhfreuf rheuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rurfuoyr rogrbfuo rfu p3uu1gf ryfgr",
+      "tags": [
+        "lit",
+        "math"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Who the haill",
+      "date": "June 8th, 22",
+      "text": "iurhfi ufxih reiuf erfzrfuip hrfiue rhfrq fhieq zfz hrefi erhfreuf rheuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rurfuoyr rogrbfuo rfu p3uu1gf ryfgr",
+      "tags": [
+        "lit",
+        "math"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Who the haill",
+      "date": "June 8th, 22",
+      "text": "iurhfi ufxih reiuf erfzrfuip hrfiue rhfrq fhieq zfz hrefi erhfreuf rheuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rurfuoyr rogrbfuo rfu p3uu1gf ryfgr",
       "tags": [
         "lit",
         "math"

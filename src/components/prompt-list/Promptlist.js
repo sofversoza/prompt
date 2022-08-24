@@ -12,7 +12,7 @@ function Promptlist({ prompts }) {
         <div key={prompt.id} className="card">
           <h2>{prompt.title}</h2>
           <h3>{prompt.date}</h3>
-          <div>{prompt.text.substring(0, 100)}...</div>
+          <div className="text-box">{prompt.text.substring(0, 200)}...</div>
           <Link to={`/prompts/${prompt.id}`}>View prompt</Link>
         </div>
       ))}

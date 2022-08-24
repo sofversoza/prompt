@@ -13,31 +13,11 @@ body {
 h1, h2, h3, h4, h5, h6, p {
   margin: 0;
 }
-h1 {
-  font-weight: 200;
-  letter-spacing: 1px;
-  word-spacing: -2.5px;
-}
-h2 {
-  font-weight: 100;
-  font-size: 2.5em;
-  letter-spacing: -2px;
-  word-spacing: -1px;
-  color: #fdd1d1;
-}
-h3 {
-  font-weight: 200;
-  font-size: 1.1em;
-  font-style: italic;
-  letter-spacing: -0.3px;
-  word-spacing: 2px;
-  margin-left: 8px;
-}
+
 p {
-  font-weight: 200;
-  font-size: 1.1em;
-  letter-spacing: -0.5px;
-  word-spacing: 1.5px;
+  font-weight: 300;
+  font-size: 1em;
+  word-spacing: 1px;
 }
 
 button {
@@ -57,7 +37,7 @@ button:hover {
   color: #fff;
 }
 
-input, textarea {
+/* input, textarea {
   font-size: 1em;
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
@@ -65,13 +45,12 @@ input, textarea {
   padding: 8px;
   display: block;
   width: 100%;
-  box-sizing: border-box;
-}
+} */
 
-a {
+/* a {
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
-}
+} */
 
 .loading, .error {
   text-align: center;
