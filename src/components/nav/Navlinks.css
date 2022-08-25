@@ -1,0 +1,12 @@
+.navlinks {
+  display: flex;
+  color: #333;
+  justify-content: center;
+  font-size: 0.8em;
+  font-weight: 400;
+}
+
+.navlinks ul {
+  list-style: none;
+  cursor: pointer;
+}

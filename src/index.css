@@ -5,9 +5,14 @@ html, body, #root {
 body {
   box-sizing: border-box;
   font-family: 'montserrat', sans-serif;
-  background: #4F4E4E;
+  background: #f4f8ff;
   color: #fff;
   margin: 0;
+}
+
+hr {
+  border: none;
+  border-top: 0.5px solid rgb(222, 217, 217);
 }
 
 h1, h2, h3, h4, h5, h6, p {

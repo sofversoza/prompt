@@ -1,8 +1,12 @@
+import { useFetch } from '../../hooks/useFetch'
+import SidebarPromptList from '../prompt-list/SidebarPromptList'
 import Search from '../search/Search'
 import './Sidebar.css'
 
 export default function Sidebar() {
-  const tags = ['classics', 'memoir', 'feminist', 'gothic', 'dark academia', 'poems']
+  const tags = ['classics', 'memoir', 'feminist', 'gothic', 'dark academia', 'poems', 'literary analysis', 'fiction']
+  const { data, isPending, error } = useFetch('http://localhost:3000/prompts')
+
 
   return (
     <div className="sidebar">
@@ -28,12 +32,15 @@ export default function Sidebar() {
         <span className="sidebar-title">Recent Tags</span>
         <div className="chiptags">
           {tags.map(tag => (
-              <a href="" key={tag}>{tag}</a>
+            <a href="" key={tag}>{tag}</a>
           ))}
         </div>
       </div>
       <div className="sidebar-item">
         <span className="sidebar-title">Recent Prompts</span>
+        {error && <p className="error">{error}</p>}
+        {isPending && <p className="loading">Loading...</p>}
+        {data && <SidebarPromptList prompts={data} />}
       </div>
       <div className="sidebar-item">
         <span className="sidebar-title">Recently Bookmarked</span>

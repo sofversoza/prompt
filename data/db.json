@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Lorem ipsum dolor sit amet",
-      "date": "Jan 4th, 2022",
+      "date": "Jan 4",
       "text": "iehfi ufxih reiuf erfuip hrfiue rhfeirq fhieq zfrufz hrefi ereuf rheiuf heru hrfiu rehprz fhirf ziru fzif zgerf urfk gr zfyurg uryfz rugrfuoyr rouo rfu prufu1gf ryfgr",
       "tags": [
         "journal",
@@ -48,56 +48,6 @@
       "tags": [
         "writing",
         "life"
-      ]
-    },
-    {
-      "id": "6",
-      "title": "Who the haill",
-      "date": "June 8th, 22",
-      "text": "iurhfi ufxih reiuf erfzrfuip hrfiue rhfrq fhieq zfz hrefi erhfreuf rheuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rurfuoyr rogrbfuo rfu p3uu1gf ryfgr",
-      "tags": [
-        "lit",
-        "math"
-      ]
-    },
-    {
-      "id": "7",
-      "title": "Who the haill",
-      "date": "June 8th, 22",
-      "text": "iurhfi ufxih reiuf erfzrfuip hrfiue rhfrq fhieq zfz hrefi erhfreuf rheuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rurfuoyr rogrbfuo rfu p3uu1gf ryfgr",
-      "tags": [
-        "lit",
-        "math"
-      ]
-    },
-    {
-      "id": "8",
-      "title": "Who the haill",
-      "date": "June 8th, 22",
-      "text": "iurhfi ufxih reiuf erfzrfuip hrfiue rhfrq fhieq zfz hrefi erhfreuf rheuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rurfuoyr rogrbfuo rfu p3uu1gf ryfgr",
-      "tags": [
-        "lit",
-        "math"
-      ]
-    },
-    {
-      "id": "9",
-      "title": "Who the haill",
-      "date": "June 8th, 22",
-      "text": "iurhfi ufxih reiuf erfzrfuip hrfiue rhfrq fhieq zfz hrefi erhfreuf rheuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rurfuoyr rogrbfuo rfu p3uu1gf ryfgr",
-      "tags": [
-        "lit",
-        "math"
-      ]
-    },
-    {
-      "id": "10",
-      "title": "Who the haill",
-      "date": "June 8th, 22",
-      "text": "iurhfi ufxih reiuf erfzrfuip hrfiue rhfrq fhieq zfz hrefi erhfreuf rheuprf zhiru fzgrpif zggerf urhfk gr zfyurg uryfz rurfuoyr rogrbfuo rfu p3uu1gf ryfgr",
-      "tags": [
-        "lit",
-        "math"
       ]
     }
   ]

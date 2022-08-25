@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Brolimo";
+  src: url("../../assets/BROLIMO-Regular.woff") format("woff");
+}
+
 .navbar {
   background: #212121;
   padding: 10px;
@@ -7,17 +12,38 @@
 }
 
 .navbar nav {
-  height: 70px;
+  height: 80px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  max-width: 95%;
-  margin: 0 auto;
+  max-width: 85%;
+  margin: auto;
 }
 
-.navbar a.brand {
-  /* moves all links all the way to the right, so the brand is on the left */
-  /* margin-right: auto; */
+.brand h1 {
+  font-family: 'Brolimo', sans-serif;
+  font-size: 2em;
+  letter-spacing: 1px;
+}
+
+.right-links h1 {
+  font-size: 0.9em;
+  font-weight: 300;
+}
+
+/* moves all links all the way to the right, so the brand is on the left */
+a.brand {
+  margin-right: auto;
+}
+
+a.right-links {
+  margin-right: 1em;
+}
+a.right-links:last-child {
+  margin-right: 0;
+}
+
+.navbar a {
   color: #fff;
   text-decoration: none;
 }

@@ -1,5 +1,43 @@
+@font-face {
+  font-family: "Brolimo";
+  src: url("../../assets/BROLIMO-Regular.woff") format("woff");
+}
+
+
 .header {
-  background: pink;
   color: #333;
-  min-height: 30vh;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header h1 {
+  font-family: "Brolimo", sans-serif;
+  font-size: 6em;
+  letter-spacing: 5px;
+  margin: -5px auto 20px auto;
+  padding: 15px;
+}
+
+.header h3 {
+  font-family: 'montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 1.15em;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  padding: 0 10px;
+}
+
+.header hr {
+  width: 100%;
+  flex: 3;
+}
+
+.border-head {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
 }

@@ -1,0 +1,30 @@
+.sidebar-card {
+  margin-bottom: 1em;
+}
+
+.sidebar-card:last-child {
+  margin-bottom: 0;
+}
+
+.sidebar-card a {
+  text-decoration: none;
+  color: #333;
+  font-size: 0.9em;
+  font-family: 'acumin-pro-wide', sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+}
+
+.sidebar-card p {
+  font-size: 0.75em;
+  font-family: 'montserrat', sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+  color: rgb(1, 55, 1);
+}
+
+.sidebar-card p:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+

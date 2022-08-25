@@ -10,10 +10,13 @@ function Promptlist({ prompts }) {
     <div className="prompt-list">
       {prompts.map((prompt) => (
         <div key={prompt.id} className="card">
+          <div className="user-date">
+            <h3>Sofia Versoza&nbsp;</h3>
+            <h3>— {prompt.date}</h3>
+          </div>
           <h2>{prompt.title}</h2>
-          <h3>{prompt.date}</h3>
           <div className="text-box">{prompt.text.substring(0, 200)}...</div>
-          <Link to={`/prompts/${prompt.id}`}>View prompt</Link>
+          <Link to={`/prompts/${prompt.id}`}>open</Link>
         </div>
       ))}
     </div>

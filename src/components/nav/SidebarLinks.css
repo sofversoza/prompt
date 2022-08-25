@@ -1,0 +1,12 @@
+.side-links {
+  min-height: 1200px;
+  flex: 1;
+  color: #333;
+  padding: 15px 15px;
+  border-right: 0.5px solid rgb(222, 217, 217);
+}
+
+.icons {
+  fill: #b5c8d4;
+}
+
