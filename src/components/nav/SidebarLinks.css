@@ -1,12 +1,55 @@
 .side-links {
   min-height: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   flex: 1;
   color: #333;
   padding: 15px 15px;
   border-right: 0.5px solid rgb(222, 217, 217);
 }
 
-.icons {
-  fill: #b5c8d4;
+.side-links hr {
+  width: 55%;
+  margin: 3em auto;
 }
 
+.icon-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icons {
+  fill: #b5c8d4;
+  font-size: 1.5em;
+  padding: 15px 0;
+  margin: 7px auto;
+  cursor: pointer;
+}
+
+.smaller {
+  font-size: 1.3em!important;
+}
+
+.icon-themes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.violet {
+  fill: #58229aa0;
+}
+.matcha {
+  fill: #5B7E4E;
+}
+.fluff {
+  fill: #8693cc;
+}
+
+.hi {
+  height: 30px;
+  width: 30px;
+  background-color: pink;
+}
